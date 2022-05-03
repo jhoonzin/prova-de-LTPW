@@ -1,0 +1,37 @@
+body{
+    background-image: url(../img/wallpaper.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;   
+    background-position-x: -184.5px;
+}
+#conteudo{
+    width: 50%;   
+    margin-left: 25%;
+    margin-top: 2%;
+    background-color: rgba(65, 117, 230, 0.589);
+    padding: 2%;
+    border-radius: 14px;
+    color: white;
+}
+h1{
+    margin-bottom: 2%;
+}
+
+#titulo{
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+#saida{
+    margin-top: 10%;
+    font-family: "arial black";
+    font-size: 2.5em;
+}
+
+#imagem img{ 
+    position: fixed;
+    right: -100px;
+    height: 100%;
+    bottom: 0px;
+  }
